@@ -2,7 +2,7 @@ const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
 const textArray = [
-"Ti serve un dj a basso prezzo ma che sia di qualita?",
+"Il miglior servizio DJ di tutta Verona",
 "Vuoi fare una serata ma hai bisogno di un dj?",
 "Ti piace la musica di genere house/dance?",
 ];
